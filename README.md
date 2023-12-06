@@ -10,10 +10,3 @@ version: 1.0.0
 1. HTML
 1. CSS
 
-## Full Tutorial
-
-[On Youtube](https://youtu.be/R7lFjX5kcYY)
-
-## Authors
-
-[Elias Abdurrahman](https://github.com/codingWithElias)
