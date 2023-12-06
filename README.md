@@ -1,6 +1,6 @@
 # Welcome to Phoenix Information Technologies
 
-# Login & Registration Form In PHP And MySQL 2023
+## Login & Registration Form In PHP And MySQL 2023
 
 version: 1.0.0
 
